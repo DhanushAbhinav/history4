@@ -1,0 +1,29 @@
+.bg-conatiner {
+  background-color: #ffffff;
+  display: flex;
+  justify-content: space-between;
+}
+.para {
+  font-family: 'Roboto';
+  font-size: 18px;
+  color: #64748b;
+  font-weight: 500;
+}
+.heading {
+  font-family: 'Roboto';
+  font-size: 28px;
+  color: #475569;
+  font-weight: 700;
+}
+.edit {
+  height: 40px;
+  width: 40px;
+}
+.para-1 {
+  font-family: 'Roboto';
+  font-size: 18px;
+  color: #ececec;
+}
+.button {
+  border: none;
+}
